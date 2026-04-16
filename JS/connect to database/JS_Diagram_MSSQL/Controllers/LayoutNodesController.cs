@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Syncfusion.EJ2.Base;
 using Newtonsoft.Json.Linq;
 
-namespace JS_Diagram_MSSQL.Server.Controllers
+namespace JS_Diagram_MSSQL.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
